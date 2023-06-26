@@ -1,0 +1,26 @@
+.hero {
+  display: flex;
+  height: 77vh;
+  margin-top: 6rem;
+}
+
+.mask {
+  display: flex;
+  position: relative;
+  flex: 1;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+p {
+  font-size: 3rem;
+}
+h1 {
+  font-width: bold;
+  font-size: 3rem;
+}
